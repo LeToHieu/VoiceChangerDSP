@@ -1,0 +1,16 @@
+# Build directories
+build/
+dist/
+
+# Spec files
+*.spec
+
+# Python cache files (optional but recommended)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment (optional)
+venv/
+env/
+.env/ 
